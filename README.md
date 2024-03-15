@@ -1,2 +1,5 @@
-# hello-github
-start my journey in github
+def main():
+    print("Hello, GitHub!")
+
+if __name__ == "__main__":
+    main()
